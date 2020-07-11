@@ -25,12 +25,13 @@ Things to do today
 1. Finish this course
    1. go step by step 
    2. dont rush it
+   
 2. Get some rest
    1. take a nap
    2. warm shower
 
 * things to buy
-  * usb - c oto rj45
+  * usbc oto rj45
   * table stand
 
 {% include 05-emphasis.md %}
