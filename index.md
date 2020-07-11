@@ -21,17 +21,15 @@ A few of my favorite emoji
 :heart:
 :smile:
 
-Things to do today
-1. Finish this course
-   1. go step by step 
-   2. dont rush it
-   
-2. Get some rest
-   1. take a nap
-   2. warm shower
+1. Item 1
+2. Item 2
+3. Item 3
+   1. Item 3a
+   2. Item 3b
 
-* things to buy
-  * usbc oto rj45
-  * table stand
-
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+  
 {% include 05-emphasis.md %}
